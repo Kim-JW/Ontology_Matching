@@ -1,0 +1,6 @@
+gbo:atPort rdf:type owl:ObjectProperty ;
+           owl:inverseOf gbo:isPortOf ;
+           rdfs:domain gbo:PortCall ;
+           rdfs:range gbo:Place ;
+           rdfs:comment "The domain of this property is PortCall, which acts as the range of 'hasStartPortCall', 'hasMidPortCall', or 'hasEndPortCall' properties." ;
+           rdfs:label "atPort" .
