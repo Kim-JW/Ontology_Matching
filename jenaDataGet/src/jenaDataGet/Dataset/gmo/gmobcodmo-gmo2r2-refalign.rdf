@@ -1,0 +1,4923 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+				 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+				 xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>gmobocdmo.owl</onto1>
+	<onto2>gmor2r.owl</onto2>
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57490"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT7-21"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57495"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EW0205"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57496"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EW0409"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57503"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX203"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57504"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX205"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57505"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX208"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57506"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX211"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57507"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX215"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57508"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX216"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57509"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX217"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57515"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX228"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57516"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX230"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57517"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX231"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57518"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX234"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57519"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX237"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57520"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX238"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57521"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX239"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57522"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX241"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57523"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX242"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57524"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX243"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57525"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX244"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57526"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX246"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57527"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX247"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57528"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX248"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57529"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX252"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57530"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX253"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57531"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX254"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57532"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX257"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57533"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX258"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57534"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX262"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57535"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX263"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57536"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX267"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57537"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX268"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57538"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX269"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57539"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX270"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57540"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX271"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57541"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX272"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57542"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX275"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57543"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX276"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57544"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX279"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57545"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX281"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57546"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX280"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57547"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX283"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57548"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX286"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57549"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX287"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57550"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX292"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57551"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX293"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57552"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0309"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57553"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0313"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57635"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0103"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57636"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0103"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57637"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0104"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57638"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0104"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57639"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0106"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57640"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0201A"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57641"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0202"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57642"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0203"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57643"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0204"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57644"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0205"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57645"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0302"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57824"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/DRFT08RR"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57826"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/COOK19MV"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57838"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0415"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57841"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN193-05"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57842"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN195-08"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57843"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0602"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57846"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/RB-08-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57847"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0414"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57848"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/ZHNG09RR"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57852"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN192-05"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57956"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC404-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57961"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC404-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57962"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC415-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57964"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC415-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57965"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC415-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57967"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC415-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57971"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HX284"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57976"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0606"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57985"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0601"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57986"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0608"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57987"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KNOX22RR"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57991"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC370"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57992"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC379"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57993"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC381"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57994"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC399-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57995"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC408-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57996"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC408-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57997"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0704"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57998"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0817"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/57999"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0715"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58003"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT11-17"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58004"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT11-30"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58005"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TUIM14MV"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58006"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN200"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58010"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/W0505C"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58015"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/W0605B"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58016"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0703"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58018"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0814"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58043"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN197-08"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58062"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0810"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58064"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC447"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58066"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN199-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58119"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC468-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58124"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE09-05"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58126"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC374"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58127"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC413"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58130"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS0705"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58138"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN253"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58140"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN484"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58141"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN487"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58142"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN199-05"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58153"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN193-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58154"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1005"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58162"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0812"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58164"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC454-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58165"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0701"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58167"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC384"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58637"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT11-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58638"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-25"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58640"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE11-06"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58646"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/VANC32MV"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58647"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1015"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58652"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB916"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58653"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB921"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58654"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB924"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58655"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB928"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58656"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB933"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58657"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB944"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58658"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0922"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58659"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN191A"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58662"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/ZHNG02RR"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58663"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC449-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58665"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC449-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58666"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0402"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58668"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS070714AB"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58672"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1102"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58676"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN193-06"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58677"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC445"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58678"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC391"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58679"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC402"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58680"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC412"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58681"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC425"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58682"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC440"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58683"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC460"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58684"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC465"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58685"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC467"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58691"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN476"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58715"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS100808BW"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58716"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN494"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58717"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC471-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58718"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH0511"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58719"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH10-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58720"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC473"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58724"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC476-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58725"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC443"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58726"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB934"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58727"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK1108"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58728"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG1110"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58729"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1125"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58731"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN501"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58732"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT18-14"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58735"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT18-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58736"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN195-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58737"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH1210"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58739"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS1010"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58740"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE10-31"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58743"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0101"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58750"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1013"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58751"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1104"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58765"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-59"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58769"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN210"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58770"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC455"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58771"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC461"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58773"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH10-22"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58774"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH10-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58775"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH10-06"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58776"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH10-13"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58783"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/VANC33MV"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58784"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN191B"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58785"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-61"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58786"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN204-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58787"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN207-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58791"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN502"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58825"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1211"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58830"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1208"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58831"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-40"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58832"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-56"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58833"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PS1009"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58834"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1008"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58835"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT16"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58852"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1008"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58853"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN513"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58857"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-11-40"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58859"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-11-44"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58862"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-12-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58863"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-12-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58864"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-12-05"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58865"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-12-11"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58866"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-12-14"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58867"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN277"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58868"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN207-03"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58869"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-44"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58870"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-68"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58871"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT18-10"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58873"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN520"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58874"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0919"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58875"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH0711"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58876"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH1010"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58880"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE08-54"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58881"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE09-12"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58882"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE10-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58901"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1009"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58902"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1007"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58903"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1006"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58904"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1005"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58905"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1003"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58906"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1001"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58907"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0928"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58908"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0926"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58909"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0924"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58910"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0921"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58911"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0919"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58912"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0916"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58913"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0911"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58914"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0909"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58915"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0907"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58916"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0905"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58917"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0904"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58918"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0903"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58919"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0902"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58920"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0901"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58921"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0811"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58922"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0813"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58923"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0816"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58924"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0820"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58925"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0823"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58926"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0826"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58927"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0829"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58931"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS090706DK"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58932"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN496"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58933"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN509"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58934"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1118"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58935"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1206"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58936"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1219"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58944"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT21-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/58945"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1110"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59000"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0801"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59001"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0802"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59002"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0806"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59003"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0811"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59004"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0813"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59005"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0815"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59006"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0820"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59007"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0822"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59008"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0902"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59009"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0907"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59010"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN195-07"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59011"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK0909"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59012"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0915"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59013"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0918"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59014"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0920"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59015"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK0916"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59016"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK0917"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59017"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK0920"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59018"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN510"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59025"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH10-14"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59029"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC449-10"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59031"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN524"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59037"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN182-09"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59039"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT18-16"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59041"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH0112"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59044"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-55"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59051"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS1005"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59053"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1128"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59055"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1016"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59056"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1110"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59057"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN210-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59060"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1106"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59062"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1006"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59097"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK1204"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59098"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK1205"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59099"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1211"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59100"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1213"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59101"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1215"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59102"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1216"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59103"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1217"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59104"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1218"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59105"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1219"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59106"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1220"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59107"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1222"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59109"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1209"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/59110"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1217"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/473009"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC469-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/473010"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC471-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/473222"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1101"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/473230"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/RR1202"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/474285"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1002"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475032"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB942"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475033"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB946"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475041"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB948"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475048"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB958"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475049"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB961"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475050"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB963"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475054"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB978"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475056"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB981"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/475058"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB983"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/490481"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB943"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/499719"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN303"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/505095"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1301"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/506345"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1024"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/506350"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1201"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/511716"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH0710"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/514381"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1004"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/514970"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS100709BC"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/515146"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS110705BC"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/515629"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1312"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/516617"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK0220"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/516655"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KOK1012"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/516658"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0325"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/516661"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0608"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/516664"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0627"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/517377"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT26-15"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/517703"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PS1103"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/518664"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS100524JP"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/518707"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS100819JP"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/518711"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS110525JP"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/518842"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS110719JP"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/518904"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS110922JP"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/521426"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN531"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/521430"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC471-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/521433"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH0912"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/521436"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE14-11"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/523770"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HLY1003"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/523773"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HLY1103"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/523775"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HLY1203"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/523780"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HLY1202"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/523781"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HLY1303"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/526876"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1310"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/527560"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/RR1211"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/529031"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT26-10"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/529668"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS0714"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/529670"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS0720"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/529671"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS0809"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/535929"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT21-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/536050"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1314"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/536488"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN309"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/537979"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1319"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/540436"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1307"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/540518"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB960"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/540519"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB974"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/540522"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB980"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/540524"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB985"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/542217"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN447"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/542529"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1032"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543338"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0912"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543340"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0914"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543342"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE0923"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543344"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1012"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543346"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1224"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543348"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1215"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543350"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1126"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543356"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1103"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543358"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1114"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/543580"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1314"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/544429"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1417"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/546764"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1310B"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/546824"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HLY1401"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/547873"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1302"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/550442"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT26-23"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/551245"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS110805DK"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/551247"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS111107DK"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/551249"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS120809DK"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/551252"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS1313"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/554174"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1017"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/554187"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1015"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/554197"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1030"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/555585"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1104"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/557808"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH0712"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/559102"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1123"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/559966"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MV1405"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/560135"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC1504A"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/561601"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SKQ201401S"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/562242"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/RR1413"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/563687"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN532"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/563697"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN538"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/565190"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1409"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/565457"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS1402"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/565535"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS1416"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/565616"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS1422"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/565814"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS110714EN"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/565816"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS120711EN"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/566757"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/RR1507"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/567244"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1203"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/567245"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1220"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/567408"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN223"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/567923"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KNOX02RR"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/567993"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1005"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/568087"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT18-08"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/568188"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN232"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/568472"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC1304A"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/568626"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/OC1406B"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/568866"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT29-04"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/568987"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1210"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/616266"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1516"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/616328"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MGLN10MV"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/616332"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT11-07"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/626312"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-67"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/626369"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT26-18"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/626431"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN268"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/627856"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT26-24"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/627919"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT26-09"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/628336"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CH0212"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/628427"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1315"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/628491"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1410"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/628708"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PE16-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/629311"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/FK141109"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/630669"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0901"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/632876"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-53"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/632899"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS1209"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/635932"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1407"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/636002"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1418"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/636095"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1506"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/636449"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN225"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/637087"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-35"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/638807"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HLY1502"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/638976"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1410"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/640720"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1513"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/641156"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS1314"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/641729"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS1501"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/641730"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/HRS1511"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/644836"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1505"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/645288"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1228"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/645357"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1322"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/645425"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AE1218"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648944"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB975"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648969"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB979"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648970"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB982"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648971"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB986"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648972"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB988"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648973"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB1002"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648974"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB1003"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/648975"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/CB1005"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/651161"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KN195-02"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/654144"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS15161"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/654157"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS1406"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/654285"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-06"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/654455"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN235"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/655687"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH11-01"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/655704"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH11-14"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/656336"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH12-20"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/656909"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/BH12-10"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/657964"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1515"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/658949"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT26-14"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/658983"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT32"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/659009"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/RB1007"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/659019"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/FK004E"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/659705"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN293"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/660521"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-51"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/660524"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-66"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/660555"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT18-07"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/660561"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM0923"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/660807"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT15-38"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/661532"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG1411"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/662448"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NH1319"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/662522"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SP1215"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/663791"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/WS15271"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/664100"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN327"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/665488"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/KM1416"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/665908"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/RB1403"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/665937"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/MGL1216"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/665996"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/TN300"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/666111"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/FK010"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/666516"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG1312"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/671723"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/LMG0102"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/672531"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-15-26"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/680093"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-14-11"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/680094"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-14-18"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/680095"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-14-19"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/680096"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-14-23"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/680097"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-14-28"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/684236"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/FK141215"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/687864"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/AT11-10"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/692295"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-15-19"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/692323"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-15-10"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/692325"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/SAV-15-31"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/692813"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1103"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/694369"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP0805"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/700613"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/FK140613"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/701341"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/PS1312"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/701892"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/NBP1207"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://lod.bco-dmo.org/geolink/id/deployment/710271"/>
+    <entity2 rdf:resource="http://data.rvdata.us/id/cruise/EN589"/>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+    <relation>=</relation>
+  </Cell>
+</map>
+
+
+</Alignment>
+</rdf:RDF>
