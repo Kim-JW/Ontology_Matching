@@ -1,0 +1,19 @@
+18
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	0
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#name>	1
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#subOrganizationOf>	2
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#teacherOf>	3
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#undergraduateDegreeFrom>	4
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#mastersDegreeFrom>	5
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#doctoralDegreeFrom>	6
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#worksFor>	7
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#emailAddress>	8
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#telephone>	9
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#researchInterest>	10
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#headOf>	11
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf>	12
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#takesCourse>	13
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#advisor>	14
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#publicationAuthor>	15
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#teachingAssistantOf>	16
+<http://www.Department1.University1.edu/hasPublication>	17

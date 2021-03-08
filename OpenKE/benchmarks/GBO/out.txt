@@ -1,0 +1,18 @@
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://gbo#hasCruiseType	http://schema.geolink.org/dev/voc/local#cruisetype_operational
+
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://gbo#hasVessel	http://lod.bco-dmo.org/geolink/id/platform/54122
+
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://gbo#Cruise
+
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://gbo#hasProject	Composition of the plankton community and its contribution to particle flux in the Sargasso Sea@en-us
+
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://gbo#hasProgram	http://lod.bco-dmo.org/geolink/id/program/2015
+
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://gbo#hasAward	http://lod.bco-dmo.org/geolink/id/award/514363
+
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://gbo#hasAbstract	<p>Cruise information and original data are available from the <a href=\"http://www.rvdata.us/catalog/AE0901\" target=\"_blank\">NSF R2R data catalog</a>.</p>^^http://www.w3.org/1999/02/22-rdf-syntax-ns#HTML
+
+http://lod.bco-dmo.org/geolink/id/deployment/58920	http://gbo#hasTitle	AE0901
+
+http://lod.bco-dmo.org/geolink/id/deployment/58835	http://gbo#hasAbstract	<p><strong>Science Objectives</strong><br />
+

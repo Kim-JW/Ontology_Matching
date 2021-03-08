@@ -1,0 +1,20 @@
+c7445e3b-8a8f-4734-92b5-48fe4ffb3e77@http://www.w3.org/2002/07/owl#someValuesFrom@http://mouse.owl#MA_0000145
+c7445e3b-8a8f-4734-92b5-48fe4ffb3e77@http://www.w3.org/2002/07/owl#onProperty@http://mouse.owl#UNDEFINED_part_of
+c7445e3b-8a8f-4734-92b5-48fe4ffb3e77@http://www.w3.org/1999/02/22-rdf-syntax-ns#type@http://www.w3.org/2002/07/owl#Restriction
+http://mouse.owl#MA_0000302@http://www.w3.org/2000/01/rdf-schema#subClassOf@714780bc-6f80-4382-a543-c9b7287517c1
+http://mouse.owl#MA_0000302@http://www.w3.org/2000/01/rdf-schema#subClassOf@http://mouse.owl#MA_0000619
+http://mouse.owl#MA_0000302@http://www.w3.org/2000/01/rdf-schema#subClassOf@http://mouse.owl#MA_0000301
+http://mouse.owl#MA_0000302@http://www.w3.org/2000/01/rdf-schema#label@metacarpal bone
+http://mouse.owl#MA_0000302@http://www.w3.org/1999/02/22-rdf-syntax-ns#type@http://www.w3.org/2002/07/owl#Class
+http://mouse.owl#MA_0001206@http://www.w3.org/2000/01/rdf-schema#subClassOf@05a1e9fc-b2c4-4500-9b1b-97e2456b3317
+http://mouse.owl#MA_0001206@http://www.w3.org/2000/01/rdf-schema#subClassOf@http://www.w3.org/2002/07/owl#Thing
+http://mouse.owl#MA_0001206@http://www.w3.org/2000/01/rdf-schema#label@scala vestibuli
+http://mouse.owl#MA_0001206@http://www.w3.org/1999/02/22-rdf-syntax-ns#type@http://www.w3.org/2002/07/owl#Class
+c5606955-30fd-4cfd-b712-e6838c3f1359@http://www.w3.org/2002/07/owl#someValuesFrom@http://mouse.owl#MA_0001537
+c5606955-30fd-4cfd-b712-e6838c3f1359@http://www.w3.org/2002/07/owl#onProperty@http://mouse.owl#UNDEFINED_part_of
+c5606955-30fd-4cfd-b712-e6838c3f1359@http://www.w3.org/1999/02/22-rdf-syntax-ns#type@http://www.w3.org/2002/07/owl#Restriction
+http://mouse.owl#MA_0000112@http://www.geneontology.org/formats/oboInOwl#hasAlternativeId@MA:0001517
+http://mouse.owl#MA_0000112@http://www.w3.org/2000/01/rdf-schema#subClassOf@95408236-c81c-4f4a-8e92-c1cbf6dc7730
+http://mouse.owl#MA_0000112@http://www.w3.org/2000/01/rdf-schema#subClassOf@http://www.w3.org/2002/07/owl#Thing
+http://mouse.owl#MA_0000112@http://www.w3.org/2000/01/rdf-schema#label@nucleus pulposus
+http://mouse.owl#MA_0000112@http://www.w3.org/1999/02/22-rdf-syntax-ns#type@http://www.w3.org/2002/07/owl#Class
