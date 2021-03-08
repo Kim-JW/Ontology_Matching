@@ -1,0 +1,14 @@
+###  http://www.opengis.net/ont/geosparql#wktLiteral
+<http://www.opengis.net/ont/geosparql#wktLiteral> rdf:type rdfs:Datatype ;
+                                                  rdfs:comment "Enables the use of Well Known Text strings" ;
+                                                  rdfs:label "geosparql:wktLiteral" .
+
+
+###  http://www.openlinksw.com/schemas/virtrdf#Geometry
+<http://www.openlinksw.com/schemas/virtrdf#Geometry> rdf:type rdfs:Datatype .
+
+
+###  http://www.w3.org/1999/02/22-rdf-syntax-ns#HTML
+rdf:HTML rdf:type rdfs:Datatype ;
+         rdfs:comment "Enables the use of HTML strings" ;
+         rdfs:label "rdf:HTML" .
