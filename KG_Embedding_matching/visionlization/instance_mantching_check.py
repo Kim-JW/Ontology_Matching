@@ -1,0 +1,2 @@
+for line in open(r'C:/Users/syx92/Google Drive/Linked Discover/Triple2Vector/mouse/ConvE_mouse_Triple2Vector.txt'):
+    da.append([float(line.split(",")[0]), float(line.split(",")[1]), float(line.split(",")[2])])
