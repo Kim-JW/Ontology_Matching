@@ -33,7 +33,8 @@ for key, value in reference.items():
     f.write(str(key)+','+str(value)+'\n')
 f.close()
 
-'''
+# Clutering Vectors using DBScan
+
 mouse = []
 for line in open('transe_mouse_Triple2Vector.txt'):
     mouse.append([float(line.split(",")[0]), float(line.split(",")[1]), float(line.split(",")[2])])
@@ -56,6 +57,7 @@ print('cluster for each mouse point: ', mouse_model.labels_)
 print("number of human cluster found: {}".format(len(set(human_model.labels_))))
 print('cluster for each human point: ', human_model.labels_)
 
+# Classify Clustering Point
 
 for i in range(len(set(mouse_model.labels_))):
     cluster_mouse = []
@@ -79,8 +81,8 @@ for i in range(len(set(human_model.labels_))):
     for ins in cluster_human:
         f.write(str(ins[0])+','+str(ins[1])+','+str(ins[2])+'\n')
     f.close()
-'''
-'''
+
+
 # general centroid
 
 centro_id = []
@@ -103,7 +105,7 @@ f = open('human/human_centroid.txt', 'a')
 for cen_id in centro_id:
     f.write(str(cen_id[0])+','+str(cen_id[1])+','+str(cen_id[2])+'\n')
 f.close()
-'''
+
 '''
 # matching relationship generate
 

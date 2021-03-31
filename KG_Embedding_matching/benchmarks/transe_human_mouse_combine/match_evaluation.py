@@ -1,6 +1,13 @@
 import numpy as np
 from sklearn.cluster import DBSCAN
 from scipy.spatial import distance
+import logging
+
+logger = logging.getLogger("Instance_matching")
+logger.setLevel(logging.INFO)
+
+stream_handler = logging.StreamHandler()
+logger.addHandler(stream_handler)
 
 '''
 f = open('benchmarks/transe_matching_instance/reference.txt', 'a')
@@ -15,6 +22,7 @@ for lines in lis:
     f.write(str(lines)+'\n')
 f.close()
 '''
+
 '''
 f = open('match_reference.txt', 'a')
 mouse = []
@@ -31,10 +39,12 @@ for i in range(len(human)):
     f.write(str(mouse[i])+','+str(human[i])+'\n')
 f.close()
 '''
-'''
+
+# Clustering Vectors using DBScan
 mouse = []
 for line in open('transe_mouse_Triple2Vector.txt'):
     mouse.append([float(line.split(",")[0]), float(line.split(",")[1]), float(line.split(",")[2])])
+
 human = []
 for lines in open('transe_human_Triple2Vector.txt'):
     human.append([float(lines.split(",")[0]), float(lines.split(",")[1]), float(lines.split(",")[2])])
@@ -48,12 +58,21 @@ mouse_model.fit_predict(mouse)
 human_model = DBSCAN(eps=0.03, min_samples=1)
 human_model.fit_predict(human)
 
-print("number of mouse cluster found: {}".format(len(set(mouse_model.labels_))))
-print('cluster for each mouse point: ', mouse_model.labels_)
+# print("number of mouse cluster found: {}".format(len(set(mouse_model.labels_))))
 
-print("number of human cluster found: {}".format(len(set(human_model.labels_))))
-print('cluster for each human point: ', human_model.labels_)
+logger.info("number of mouse cluster found : {}".format(len(set(mouse_model.labels_))))
+logger.info('cluster for each mouse point: {}'.format(mouse_model.labels_))
 
+#print('cluster for each mouse point: ', mouse_model.labels_)
+
+logger.info("number of mouse cluster found : {}".format(len(set(human_model.labels_))))
+logger.info('cluster for each mouse point: {}'.format(human_model.labels_))
+
+#print("number of human cluster found: {}".format(len(set(human_model.labels_))))
+#print('cluster for each human point: ', human_model.labels_)
+
+
+# Classify Data
 
 for i in range(len(set(mouse_model.labels_))):
     cluster_mouse = []
@@ -77,8 +96,7 @@ for i in range(len(set(human_model.labels_))):
     for ins in cluster_human:
         f.write(str(ins[0])+','+str(ins[1])+','+str(ins[2])+'\n')
     f.close()
-'''
-'''
+
 # general centroid
 centro_id = []
 for i in range(11):
@@ -95,12 +113,14 @@ for i in range(11):
     object.clear()
 
 
-print(centro_id)
+# print(centro_id)
+logger.info("centro: {}".format(centro_id))
+
 f = open('mouse/mouse_centroid.txt', 'a')
 for cen_id in centro_id:
     f.write(str(cen_id[0])+','+str(cen_id[1])+','+str(cen_id[2])+'\n')
 f.close()
-'''
+
 '''
 # matching relationship generate
 
@@ -114,6 +134,7 @@ for line in open('mouse/mouse_centroid.txt'):
     euclidean_distance.clear()
     print(ind)
 '''
+
 '''
 human = []
 for line_human in open('human.txt'):
