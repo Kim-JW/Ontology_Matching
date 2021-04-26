@@ -5,7 +5,12 @@ from mpl_toolkits.mplot3d import Axes3D
 from sklearn.cluster import DBSCAN
 
 da = []
+'''
 for line in open(r'C:/Users/syx92/Google Drive/Linked Discover/Triple2Vector/mouse/ConvE_mouse_Triple2Vector.txt'):
+    da.append([float(line.split(",")[0]), float(line.split(",")[1]), float(line.split(",")[2])])
+'''
+
+for line in open("human/transd_human_Triple2Vector.txt"):
     da.append([float(line.split(",")[0]), float(line.split(",")[1]), float(line.split(",")[2])])
 
 data = np.array(da)
